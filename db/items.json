@@ -1,0 +1,8 @@
+[
+  { "name": "spagg", "price": 500, "size": "small", "id": 1 },
+  { "name": "magggi", "price": 600, "size": "medium", "id": 2 },
+  { "name": "Semovita", "price": 7900, "size": "large", "id": 3 },
+  { "name": "Semovita", "price": 7900, "size": "large", "id": 4 },
+  { "name": "Semovita", "price": 7900, "size": "large", "id": 5 },
+  { "name": "Semovita", "price": 7900, "size": "large", "id": 6 }
+]
